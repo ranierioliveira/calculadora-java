@@ -6,7 +6,7 @@ public class OpcoesMenu {
     static Scanner sc = new Scanner(System.in);
     public void mostrarMenu(){
         System.out.println("*-----------------------------------------------------*");
-        System.out.println("Para escolher uma das opções digite o número correspondente:");
+        System.out.println("Para escolher uma das opções digite o número correspondente: ");
         System.out.println("Adição [ 1 ]");
         System.out.println("Subtração [ 2 ]");
         System.out.println("Multiplicação [ 3 ]");
